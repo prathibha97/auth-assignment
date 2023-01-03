@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "63b3c6473eb208f33bdd30b5"
+  },
+  "fullName": "John Doe",
+  "email": "john@example.com",
+  "username": "John",
+  "password": "$2b$10$mmSi4ugGjwE5Zyf09Tk/ZOBOMpv6Yp3v4oTuV.WV6yrUdO/l5ipUa",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672726087752"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672726087752"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3c65b3eb208f33bdd30b7"
+  },
+  "fullName": "Jane Doe",
+  "email": "jane@example.com",
+  "username": "Jane",
+  "password": "$2b$10$wEjV8uBHgZZBTUt0PLnVeOii976xC9fYMWfS2mnaPCxIQCyzVJELK",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672726107097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672726107097"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3d2bf10f1b1b076451940"
+  },
+  "fullName": "Sam Smith",
+  "email": "sam@example.com",
+  "username": "Sam",
+  "password": "$2b$10$Eg/5Agx1X4OKj4iKUJpbdOAU5qsdj4TSrOm2uD9yUQSnyOJKRE7Gi",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672729279342"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672729279342"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3e7572779744bcc31b579"
+  },
+  "fullName": "Sarah Smith",
+  "email": "sarah@example.com",
+  "username": "Sarah",
+  "password": "$2b$10$Z5vbMM8jyrNo1jOwldAfT.BdTxIVRzbEHGkZ4GEEg8K2Yn/V9QBtW",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672734551091"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672734551091"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3f7865af4c7cd1d25b771"
+  },
+  "fullName": "Kevin Smith",
+  "email": "prsthibha@gmail.com",
+  "username": "test",
+  "password": "$2b$10$GpcZ.rre/CTYaNFy9gUeH.uzTX1E5r3BJiEqqV7T5gXVkyreitnv.",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672738694792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672738694792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3f8265af4c7cd1d25b773"
+  },
+  "fullName": "Bruce Banner",
+  "email": "bruce@gmail.com",
+  "username": "bruce",
+  "password": "$2b$10$caINsWr/CcKiriKuQWIcy./sYwbZJPL7BtBEr9wJjLyohUEcCk2n2",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672738854116"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672738854116"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b47343353a0cc4ac5deb3c"
+  },
+  "fullName": "Jon Snow",
+  "email": "jon@example.com",
+  "username": "jon",
+  "password": "$2b$10$UkFvpQ2s088A0jTFC.Eq3.Z1j74/WO0HNzGlS9QBP6VIGfbQEgc1C",
+  "picturePath": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672770371858"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672770371858"
+    }
+  },
+  "__v": 0
+}]
