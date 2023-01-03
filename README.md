@@ -11,7 +11,7 @@
 ## Running the Project
 
 1. In the terminal, run: `npm run deploy`
-2. Browse to the frontend of the application at [localhost:3000](http://localhost:3000)
+2. Browse to the application at [localhost:5000](http://localhost:5000)
 3. Use default email - john@example.com, password - '123456' 
 
 ## Docker
