@@ -7,7 +7,7 @@ const uploadImage = (req,res)=>{
     })
   }
 
-  if(req.file.mimetype.startWith('/image')){
+  // if(req.file.mimetype.startWith('/image')){
     fs.readFile(req.file.path, (err, data)=>{
       if(err){
         return res.status(400).json({message: 'Error reading file'})
@@ -17,13 +17,13 @@ const uploadImage = (req,res)=>{
         contentType: req.file.mimetype
       })
     })
-  }else{
-    fs.unlink(req.file.path, (err)=>{
-      if(err){
-        return res.status(400).json({message: err.message})
-      }
-    })
-  }
+  // }else{
+  //   fs.unlink(req.file.path, (err)=>{
+  //     if(err){
+  //       return res.status(400).json({message: err.message})
+  //     }
+  //   })
+  // }
 }
 
 module.exports = uploadImage

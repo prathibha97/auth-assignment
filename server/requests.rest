@@ -2,9 +2,9 @@ POST http://localhost:5000/api/auth/register
 Content-Type: application/json
 
 {
-  "fullName": "Sam Smith",
-  "username": "Sam",
-  "email": "sam@example.com",
+  "fullName": "Sarah Smith",
+  "username": "Sarah",
+  "email": "sarah@example.com",
   "password": "123456",
   "confirmPassword": "123456"
 }
@@ -14,7 +14,7 @@ POST http://localhost:5000/api/auth/login
 Content-Type: application/json
 
 {
-  "email" : "john@example.com",
+  "email" : "sam@example.com",
   "password" : "123456"
 }
 
